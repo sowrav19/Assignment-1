@@ -1,0 +1,181 @@
+body {
+    font-family: 'Fjalla One', sans-serif;
+    margin: 0;
+}
+
+.first-section {
+    background-image: url(images/donation13.jpg);
+    margin: 0;
+    background-size: cover;
+    height: 480px;
+    padding-top: 15px;
+
+
+}
+
+.first-section-header {
+    color: whitesmoke;
+    text-align: center;
+    font-size: 300%;
+    font-family: 'Shift', sans-serif;
+    font-weight: bold;
+
+
+}
+
+.first-section-paragrapgh {
+    color: whitesmoke;
+    text-align: center;
+}
+
+#link-button {
+
+    text-decoration: none;
+    background: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 400;
+}
+
+.donet-now {
+    text-align: center;
+    margin-top: 50px;
+
+}
+
+.second-section-header {
+    text-align: center;
+    font-size: 200%;
+    margin-top: 110px;
+}
+
+.second-section-paragrapgh {
+    text-align: center;
+
+}
+
+.amount {
+    text-align: center;
+}
+
+.select {
+    padding-right: 20px;
+    font-size: 180%;
+    border: 10px;
+}
+
+.pay {
+    text-align: center;
+
+}
+
+.hot {
+    padding-right: 15px;
+    font-size: 180%;
+    background-color: aquamarine;
+    border-radius: 10px;
+}
+
+.third-section h1 {
+    text-align: center;
+    margin-top: 100px;
+    font-size: 200%;
+}
+
+.third-section p {
+    text-align: center;
+}
+
+.a {
+    width: 25%;
+    float: left;
+    margin-left: 4%;
+    padding-left: 2%;
+}
+
+.fourth-section {
+    display: flex;
+    display: flexbox;
+}
+
+.fourth-section-a {
+    display: flexbox;
+    background-color: blanchedalmond;
+    margin: 5px 30px;
+    padding-left: 10px;
+    border-radius: 20px;
+}
+
+.fourth-section-b {
+    display: flexbox;
+    background-color: aquamarine;
+    margin: 5px 30px;
+    padding-left: 10px;
+    border-radius: 20px;
+
+}
+
+.fourth-section-c {
+    display: flexbox;
+    background-color: orchid;
+    margin: 5px 30px;
+    padding-left: 10px;
+    border-radius: 20px;
+
+}
+
+#ab {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+    padding: 4%;
+    margin-bottom: 10px;
+}
+
+.half-width img {
+    width: 90%;
+}
+
+#h1 {
+    text-align: center;
+    font-size: 250%;
+}
+
+#p {
+    text-align: center;
+}
+
+.container {
+    text-align: center;
+    padding: 20px;
+    background-color: #d89999;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+.container input {
+    width: 60%;
+    padding: 10px;
+    margin: 5px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+.footer {
+    height: 200%;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-bottom: 60px;
+}
+
+#footer-a {
+    color: indianred;
+    padding-top: 25px;
+    font-weight: 500;
+}
